@@ -1,0 +1,30 @@
+[
+   {
+      "id":1,
+      "titulo":"Recolección Básica",
+      "objetivos":[
+         {
+            "frutaID":"apple",
+            "cantidad":3
+         },
+         {
+            "frutaID":"bananas",
+            "cantidad":2
+         }
+      ]
+   },
+   {
+      "id":2,
+      "titulo":"Desafío Exótico",
+      "objetivos":[
+         {
+            "frutaID":"kiwi",
+            "cantidad":2
+         },
+         {
+            "frutaID":"cherries",
+            "cantidad":3
+         }
+      ]
+   }
+]
