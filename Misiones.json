@@ -1,14 +1,14 @@
 [
    {
       "id":1,
-      "titulo":"Recolección Básica",
+      "titulo":"Recolección Global",
       "objetivos":[
          {
-            "frutaID":"apple",
+            "itemName":"apple",
             "cantidad":3
          },
          {
-            "frutaID":"bananas",
+            "itemName":"bananas",
             "cantidad":2
          }
       ]
@@ -18,11 +18,11 @@
       "titulo":"Desafío Exótico",
       "objetivos":[
          {
-            "frutaID":"kiwi",
+            "itemName":"kiwi",
             "cantidad":2
          },
          {
-            "frutaID":"cherries",
+            "itemName":"cherries",
             "cantidad":3
          }
       ]
