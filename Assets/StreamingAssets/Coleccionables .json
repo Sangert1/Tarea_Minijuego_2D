@@ -1,0 +1,26 @@
+[
+   {
+      "iconoId":"apple",
+      "nombre":"Manzana",
+      "rareza":"comun",
+      "valor":10
+   },
+   {
+      "iconoId":"bananas",
+      "nombre":"Banano",
+      "rareza":"comun",
+      "valor":15
+   },
+   {
+      "iconoId":"kiwi",
+      "nombre":"Kiwi",
+      "rareza":"raro",
+      "valor":50
+   },
+   {
+      "iconoId":"cherries",
+      "nombre":"Cerezas",
+      "rareza":"raro",
+      "valor":60
+   }
+]
