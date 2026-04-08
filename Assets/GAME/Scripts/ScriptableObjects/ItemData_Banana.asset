@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 49dd7f6170146fc43a608e6e954d6ff3, type: 3}
   m_Name: ItemData_Banana
   m_EditorClassIdentifier: Assembly-CSharp::ItemData
-  Itemname: 
+  Itemname: bananas
   itemType: 3
-  ItemValue: 20
+  ItemValue: 15
   collectSound: {fileID: 8300000, guid: 67a811fe15b02834da9e5a539e8f5e2b, type: 3}

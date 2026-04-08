@@ -18,6 +18,7 @@ public enum ItemType
     Coin,
     Weapon,
     Armor,
+    Cherries,
 }
 
 

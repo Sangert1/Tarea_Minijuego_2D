@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 49dd7f6170146fc43a608e6e954d6ff3, type: 3}
   m_Name: ItemData_Kiwi
   m_EditorClassIdentifier: Assembly-CSharp::ItemData
-  Itemname: 
+  Itemname: kiwi
   itemType: 2
-  ItemValue: 15
+  ItemValue: 50
   collectSound: {fileID: 8300000, guid: 671f1a9d2ce084c4cb9a345950c6f921, type: 3}

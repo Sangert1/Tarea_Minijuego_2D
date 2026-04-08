@@ -21,13 +21,19 @@ public class MissionManager : MonoBehaviour
     public void VerificarProgreso(string itemName)
     {
         var obj = misionActual.objetivos.Find(o => o.itemName.ToLower() == itemName.ToLower());
+
         if (obj != null)
         {
-            obj.actual++;
-            UIManager.Instance.ActualizarListaUI(misionActual);
-            ChequearVictoria();
+            
+            if (obj.actual < obj.cantidad)
+            {
+                obj.actual++;
+                UIManager.Instance.ActualizarListaUI(misionActual);
+                ChequearVictoria();
+            }
         }
     }
+
 
     void ChequearVictoria()
     {
