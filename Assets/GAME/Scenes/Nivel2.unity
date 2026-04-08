@@ -1099,8 +1099,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Felicitaciones Nivel 2 superado
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 33301379651c2d846bf7092b06c9b8ec, type: 2}
+  m_sharedMaterial: {fileID: 8490720547745846734, guid: 33301379651c2d846bf7092b06c9b8ec, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -1124,7 +1124,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 61.35
+  m_fontSize: 38.65
   m_fontSizeBase: 36
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -1545,8 +1545,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Cerrar el juego
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 859fb79f401e46f43ad6604c33e1a508, type: 2}
+  m_sharedMaterial: {fileID: -7151545058408846088, guid: 859fb79f401e46f43ad6604c33e1a508, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -1570,7 +1570,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 38.55
+  m_fontSize: 36.2
   m_fontSizeBase: 24
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -1713,8 +1713,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Volver al Menu
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 859fb79f401e46f43ad6604c33e1a508, type: 2}
+  m_sharedMaterial: {fileID: -7151545058408846088, guid: 859fb79f401e46f43ad6604c33e1a508, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -1738,7 +1738,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 38.7
+  m_fontSize: 38.9
   m_fontSizeBase: 24
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -7319,8 +7319,8 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_GlobalIlluminationMeshLod: 0
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 1030757501
+  m_SortingLayer: -1
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_Sprite: {fileID: 21300000, guid: ca6a66f8e2ae9c24c8c6b39c49206a0d, type: 3}
@@ -7342,7 +7342,7 @@ Transform:
   m_GameObject: {fileID: 1937659065}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -1.6377, y: 0.5796, z: 0}
+  m_LocalPosition: {x: -2.48, y: 0.47, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -7474,9 +7474,37 @@ PrefabInstance:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[2].m_Target
       value: 
       objectReference: {fileID: 0}
+    - target: {fileID: 3273703485742825407, guid: 7e64743f8ce8f98408b8421d7d36c97d, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 454.4525
+      objectReference: {fileID: 0}
+    - target: {fileID: 3273703485742825407, guid: 7e64743f8ce8f98408b8421d7d36c97d, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 139.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 3273703485742825407, guid: 7e64743f8ce8f98408b8421d7d36c97d, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -125.2261
+      objectReference: {fileID: 0}
+    - target: {fileID: 3273703485742825407, guid: 7e64743f8ce8f98408b8421d7d36c97d, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 13.01
+      objectReference: {fileID: 0}
     - target: {fileID: 3283163437426969756, guid: 7e64743f8ce8f98408b8421d7d36c97d, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 3920949679618315418, guid: 7e64743f8ce8f98408b8421d7d36c97d, type: 3}
+      propertyPath: m_fontSize
+      value: 22.35
+      objectReference: {fileID: 0}
+    - target: {fileID: 3920949679618315418, guid: 7e64743f8ce8f98408b8421d7d36c97d, type: 3}
+      propertyPath: m_margin.z
+      value: -3.5639954
+      objectReference: {fileID: 0}
+    - target: {fileID: 3920949679618315418, guid: 7e64743f8ce8f98408b8421d7d36c97d, type: 3}
+      propertyPath: m_enableAutoSizing
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6959437185332040702, guid: 7e64743f8ce8f98408b8421d7d36c97d, type: 3}
       propertyPath: m_Pivot.x
@@ -7627,12 +7655,20 @@ PrefabInstance:
       value: Canvas
       objectReference: {fileID: 0}
     - target: {fileID: 8869285016374424409, guid: 7e64743f8ce8f98408b8421d7d36c97d, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 302.8066
+      objectReference: {fileID: 0}
+    - target: {fileID: 8869285016374424409, guid: 7e64743f8ce8f98408b8421d7d36c97d, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 40.296
+      objectReference: {fileID: 0}
+    - target: {fileID: 8869285016374424409, guid: 7e64743f8ce8f98408b8421d7d36c97d, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 320
+      value: 62.708313
       objectReference: {fileID: 0}
     - target: {fileID: 8869285016374424409, guid: 7e64743f8ce8f98408b8421d7d36c97d, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 34.43
+      value: 48.711983
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects:
@@ -7656,6 +7692,7 @@ SceneRoots:
   - {fileID: 1116897711}
   - {fileID: 3988857303087237123}
   - {fileID: 762760863}
+  - {fileID: 1797741869}
   - {fileID: 541309204}
   - {fileID: 1780148551}
   - {fileID: 1941223930}
@@ -7664,5 +7701,4 @@ SceneRoots:
   - {fileID: 147151385}
   - {fileID: 1017087725}
   - {fileID: 1793161491}
-  - {fileID: 1797741869}
   - {fileID: 1937659067}
