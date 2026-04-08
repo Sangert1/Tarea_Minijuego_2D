@@ -553,12 +553,12 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 160
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+        y: 167
+        width: 48
+        height: 9
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45021397}
+      border: {x: 24, y: 4, z: 24, w: 5}
       customData: 
       outline: []
       physicsShape: []
@@ -1565,12 +1565,12 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 96
-        width: 16
-        height: 16
+        y: 103
+        width: 48
+        height: 9
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 24, y: 4, z: 24, w: 5}
       customData: 
       outline: []
       physicsShape: []
@@ -3716,6 +3716,28 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: Terrain Sliced (16x16)_0
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 57
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b15f1bac66d638f4bbb05f2783d566f5
+      internalID: 1474795262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
@@ -3874,6 +3896,7 @@ TextureImporter:
       Terrain (16x16)_97: 3666724916130892037
       Terrain (16x16)_98: 4557074923728586563
       Terrain (16x16)_99: -4531858634233595940
+      Terrain Sliced (16x16)_0: 1474795262
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

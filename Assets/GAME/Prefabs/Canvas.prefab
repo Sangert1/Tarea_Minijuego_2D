@@ -173,7 +173,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0}
   m_AnchorMax: {x: 0.5, y: 0}
-  m_AnchoredPosition: {x: 685, y: 28.745972}
+  m_AnchoredPosition: {x: 427, y: 22.172}
   m_SizeDelta: {x: 443.055, y: 83.191}
   m_Pivot: {x: 0.5, y: 0}
 --- !u!222 &1178461976743549387
@@ -330,7 +330,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0}
   m_AnchorMax: {x: 0.5, y: 0}
-  m_AnchoredPosition: {x: -765, y: 35.32}
+  m_AnchoredPosition: {x: -561, y: 35.32}
   m_SizeDelta: {x: 259.0548, y: 70.0434}
   m_Pivot: {x: 0.5, y: 0}
 --- !u!222 &7094511022547085935
@@ -1350,7 +1350,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.CanvasScaler
   m_UiScaleMode: 1
-  m_ReferencePixelsPerUnit: 1
+  m_ReferencePixelsPerUnit: 100
   m_ScaleFactor: 1
   m_ReferenceResolution: {x: 1920, y: 1080}
   m_ScreenMatchMode: 0
