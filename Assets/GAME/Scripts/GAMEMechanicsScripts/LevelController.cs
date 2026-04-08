@@ -8,6 +8,11 @@ public class LevelController : MonoBehaviour
     {
         SceneManager.LoadScene(nombre);
     }
+    public void Salir()
+    {
+        Debug.Log("Cerrando aplicación...");
+        Application.Quit();
+    }
 
 
 
