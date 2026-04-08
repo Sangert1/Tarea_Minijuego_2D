@@ -7088,6 +7088,10 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.y
       value: -5.3705
       objectReference: {fileID: 0}
+    - target: {fileID: 1050934370773415959, guid: 7e64743f8ce8f98408b8421d7d36c97d, type: 3}
+      propertyPath: m_text
+      value: New text
+      objectReference: {fileID: 0}
     - target: {fileID: 1080777242866629925, guid: 7e64743f8ce8f98408b8421d7d36c97d, type: 3}
       propertyPath: m_SizeDelta.y
       value: 84.766
@@ -7192,17 +7196,69 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7848721901213048627, guid: 7e64743f8ce8f98408b8421d7d36c97d, type: 3}
+      propertyPath: m_Type
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7848721901213048627, guid: 7e64743f8ce8f98408b8421d7d36c97d, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -4874278423985981231, guid: fc584d329b77b9545b9c9c8bb829e553, type: 3}
+    - target: {fileID: 7848721901213048627, guid: 7e64743f8ce8f98408b8421d7d36c97d, type: 3}
+      propertyPath: m_Color.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7848721901213048627, guid: 7e64743f8ce8f98408b8421d7d36c97d, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7848721901213048627, guid: 7e64743f8ce8f98408b8421d7d36c97d, type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8110365332587130055, guid: 7e64743f8ce8f98408b8421d7d36c97d, type: 3}
       propertyPath: m_Name
       value: txtPuntaje
+      objectReference: {fileID: 0}
+    - target: {fileID: 8204893357096157776, guid: 7e64743f8ce8f98408b8421d7d36c97d, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -4874278423985981231, guid: fc584d329b77b9545b9c9c8bb829e553, type: 3}
+    - target: {fileID: 8204893357096157776, guid: 7e64743f8ce8f98408b8421d7d36c97d, type: 3}
+      propertyPath: m_Color.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8204893357096157776, guid: 7e64743f8ce8f98408b8421d7d36c97d, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8204893357096157776, guid: 7e64743f8ce8f98408b8421d7d36c97d, type: 3}
+      propertyPath: m_Color.r
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8221791167536855471, guid: 7e64743f8ce8f98408b8421d7d36c97d, type: 3}
       propertyPath: m_Name
       value: txtMisiones
       objectReference: {fileID: 0}
+    - target: {fileID: 8342165216448239469, guid: 7e64743f8ce8f98408b8421d7d36c97d, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: -0.0007
+      objectReference: {fileID: 0}
+    - target: {fileID: 8342165216448239469, guid: 7e64743f8ce8f98408b8421d7d36c97d, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 165.4181
+      objectReference: {fileID: 0}
     - target: {fileID: 8474702932515119606, guid: 7e64743f8ce8f98408b8421d7d36c97d, type: 3}
       propertyPath: m_Name
       value: Canvas
+      objectReference: {fileID: 0}
+    - target: {fileID: 8869285016374424409, guid: 7e64743f8ce8f98408b8421d7d36c97d, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 320
+      objectReference: {fileID: 0}
+    - target: {fileID: 8869285016374424409, guid: 7e64743f8ce8f98408b8421d7d36c97d, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 34.43
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects:

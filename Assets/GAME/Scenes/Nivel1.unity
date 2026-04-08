@@ -8135,6 +8135,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7447117880032491389, guid: 7e64743f8ce8f98408b8421d7d36c97d, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: -0.0024
+      objectReference: {fileID: 0}
+    - target: {fileID: 7447117880032491389, guid: 7e64743f8ce8f98408b8421d7d36c97d, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 186.95
+      objectReference: {fileID: 0}
     - target: {fileID: 7848721901213048627, guid: 7e64743f8ce8f98408b8421d7d36c97d, type: 3}
       propertyPath: m_Type
       value: 1
@@ -8191,9 +8199,25 @@ PrefabInstance:
       propertyPath: m_Name
       value: txtMisiones
       objectReference: {fileID: 0}
+    - target: {fileID: 8342165216448239469, guid: 7e64743f8ce8f98408b8421d7d36c97d, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: -0.0007
+      objectReference: {fileID: 0}
+    - target: {fileID: 8342165216448239469, guid: 7e64743f8ce8f98408b8421d7d36c97d, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 146.0506
+      objectReference: {fileID: 0}
     - target: {fileID: 8474702932515119606, guid: 7e64743f8ce8f98408b8421d7d36c97d, type: 3}
       propertyPath: m_Name
       value: Canvas
+      objectReference: {fileID: 0}
+    - target: {fileID: 8869285016374424409, guid: 7e64743f8ce8f98408b8421d7d36c97d, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 309
+      objectReference: {fileID: 0}
+    - target: {fileID: 8869285016374424409, guid: 7e64743f8ce8f98408b8421d7d36c97d, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 34.43
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects:
